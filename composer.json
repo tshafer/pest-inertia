@@ -1,6 +1,6 @@
 {
-    "name": "pestphp/pest-plugin-template",
-    "description": "My awesome plugin",
+    "name": "tshafer/pest-interia",
+    "description": "Pest plugin for intertia",
     "keywords": [
         "php",
         "framework",
