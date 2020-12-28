@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Pest\PluginName;
+namespace Tshafer\PestInteria;
 
 use Pest\Plugin;
 use PHPUnit\Framework\TestCase;
 
-Plugin::uses(Example::class);
+Plugin::uses(PestInteria::class);
 
 /**
  * @return TestCase
