@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace Pest\PluginName;
+namespace Tshafer\PestInteria;
 
 use PHPUnit\Framework\TestCase;
 
 /**
  * @internal
  */
-trait Example
+trait PestInteria
 {
     /**
      * Example description.
